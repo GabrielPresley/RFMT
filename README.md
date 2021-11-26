@@ -11,9 +11,11 @@
 
 ### Future Features:
 
+- Power LED
+- Power switch 
 - Microphone
 - USB C
-- Onboard battery
+- Onboard battery (AA or LIPO)
 - Onboard MP3 Storage
 
 ### Future Projects
@@ -22,9 +24,10 @@
 - RFMD Radio FM Relay (Combination reveiver/transmitter) with an variable input and output frequency.
 
 ### File Availability
-  As I am just getting started in the world of Opensource hardware design, I dont know what files and formats are "standard," if I have missed any important files or information, please reach out; I will gladly make any files I have available.
+As I am just getting started in the world of Opensource hardware design, I dont know what files and formats are "standard," if I have missed any important files or information, please reach out; I will gladly make any files I have available.
 
 ## WARNING:
+
 - RFMT HAS NOT BEEN TESTED
 - RANGE IS THEORETICAL
 - ONLY TO BE USED UNDER LOCAL REGULATIONS
