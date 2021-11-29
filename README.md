@@ -1,6 +1,6 @@
 # RFMT
 ## Radio Frequency Modulation (FM) Transmitter 📻
-![alt text](https://raw.githubusercontent.com/GabrielPresley/RFMT/main/PCB_PCB_undefined%20copy_2021-11-27.png)
+![alt text](https://raw.githubusercontent.com/GabrielPresley/RFMT/main/RFMT_PCB.png)
 
 - RFMT is a pcb FM Transmitter with a theoretical range of 3km 📶
 - RDMT takes a standard aux from your favourite audio device 🎶
